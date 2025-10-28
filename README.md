@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhjOXBzNTRqdXV0cDc5c2x1dHBudGI0Y2g1MWZ1c3p4djgzeHphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/viren-agola" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />  </a>
+  <a href="mailto:agolaviren05@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" /> </a> 
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Discord" /> </a> 
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Instagram" /> </a> 
 </div>
 
 ###
@@ -19,19 +19,19 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Viren Agola</h1>
+<h1 align="center">Hi!👋 I'm Viren Agola (Business Analytics)</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h5 align="left">Business Analyst<br><br>🌱 I’m currently learning Python Advance level<br><br>💬 Ask me about Data Visualization, Power BI, SQL, Unity Games<br><br>📫 How to reach me agolaviren@gmail.com<br><br>📄 Know about my experiences https://viren-ba-cv.tiiny.site<br><br>⚡ Fun fact I think I'm Funny</h5>
+<h4 align="left">Business Analyst<br><br>🌱 I’m currently learning Python Advance level<br><br>💬 Ask me about Data Visualization, Power BI, SQL, Unity Games<br><br>📄 Know about my experiences https://viren-ba-cv.tiiny.site<br><br>⚡ Fun fact I think I'm Funny</h4>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -77,7 +77,11 @@
 
 ###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
